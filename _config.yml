@@ -1,11 +1,11 @@
 title: Yuhong LIANG # your name (or website title) here
-#logo: "/images/logo.png?raw=true" # your photo (or logo) here
+#logo: #"/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  email: yhliang@cse.cuhk.edu.hk
+  Email: yhliang@cse.cuhk.edu.hk
   <br><br>
-  #Second description 
-  #<br><br>
-  #<a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Address: Rm 921, Ho Sin Hang Engineering Building, the Chinese University of Hong Kong (CUHK), Shatin, Hong Kong, China
+  <br><br>
+  
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
