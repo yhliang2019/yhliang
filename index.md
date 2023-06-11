@@ -1,7 +1,7 @@
 
 ##  About me
 
-My name is LIANG Yuhong. I am currently a research engineer at Huawei Technologies Co., Ltd. I received my Ph.D. degree from the Department of Computer Science and Engineering at The Chinese University of Hong Kong in 2022, where I was supervised by Prof. Yang Ming-Chang. Before that, I received my bachelor's degree in computer science from South China University of Technology in 2018.
+My name is LIANG Yuhong. I am currently a research engineer at Huawei Technologies Co., Ltd. I received my Ph.D. degree from the Department of Computer Science and Engineering at The Chinese University of Hong Kong in 2022, where I was supervised by Prof. <a href="http://www.cse.cuhk.edu.hk/~mcyang/index.html">Yang Ming-Chang</a>. Before that, I received my bachelor's degree in computer science from South China University of Technology in 2018.
 
 
 
