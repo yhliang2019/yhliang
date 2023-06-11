@@ -7,29 +7,24 @@ My name is LIANG Yuhong. I am currently a research engineer at Huawei Technologi
 
 ##  Publications
 
-<div class="Publication info-unit right-list">
-                <ul class="experience-list">
-                    <li>
-                        <p>Chao Wang, Junliang Hu, Tsun-Yu Yang, Yuhong Liang, and Ming-Chang Yang, "SEPH: Scalable, Efficient, and Predictable Hashing on Persistent Memory," USENIX Symposium on Operating Systems Design and Implementation (OSDI), Boston, MA, USA, July 10–12, 2023.</p>
-                    </li>
-                    <li>
-                        <p>Tsun-Yu Yang, Yuhong Liang, and Ming-Chang Yang, "Practicably Boosting the Processing Performance of BFS-like Algorithms on Semi-External Graph System via I/O- Efficient Graph Ordering," USENIX Conference on File and Storage Technologies (FAST), Hybrid Event, Feb. 22-24, 2022. </p>
-                    </li>
-                    <li>
-                        <p>Yuhong Liang, and Ming-Chang Yang, "Move-On-Modify: An Efficient yet Crash-Consistent Update Strategy for Interlaced Magnetic Recording," ACM/IEEE Design Automation Conference (DAC), San Francisco, USA, Dec. 5-9, 2021. </p>
-                    </li>
-                    <li>
-                        <p>Yuhong Liang, Tsun-Yu Yang, and Ming-Chang Yang, "KVIMR: Key-Value Store Aware Data Management Middleware for Interlaced Magnetic Recording Based Hard Disk Drive," USENIX Annual Technical Conference (USENIX ATC), Virtual Conference, July 14-16, 2021. </p>
-                    </li>   
-                    <li>
-                        <p>Shuo-Han Chen, Yuhong Liang, and Ming-Chang Yang, "KVSTL: An Application Support to LSM-Tree based Key-Value Store via Shingled Translation Layer Data Management," IEEE Transactions on Computers (TC), vol. 71, no. 7, pp. 1598-1611, July 2022. </p>
-                    </li> 
-                    <li>
-                        <p>Yuhong Liang, Ming-Chang Yang, and Shuo-Han Chen, "MAGIC: Making IMR based HDD Perform like CMR based HDD," IEEE Transactions on Computers (TC), vol. 71, no. 3, pp. 643-657, March 2022.
- </p>
-                    </li>                    
-                </ul>
-            </div>
+### Conference Paper
+* Chao Wang, Junliang Hu, Tsun-Yu Yang, **Yuhong Liang**, and Ming-Chang Yang, "SEPH: Scalable, Efficient, and Predictable Hashing on Persistent Memory," USENIX Symposium on Operating Systems Design and Implementation (OSDI), Boston, MA, USA, July 10–12, 2023.
+
+
+* Tsun-Yu Yang, **Yuhong Liang**, and Ming-Chang Yang, "Practicably Boosting the Processing Performance of BFS-like Algorithms on Semi-External Graph System via I/O- Efficient Graph Ordering," USENIX Conference on File and Storage Technologies (FAST), Hybrid Event, Feb. 22-24, 2022.
+
+
+* **Yuhong Liang**, and Ming-Chang Yang, "Move-On-Modify: An Efficient yet Crash-Consistent Update Strategy for Interlaced Magnetic Recording," ACM/IEEE Design Automation Conference (DAC), San Francisco, USA, Dec. 5-9, 2021.
+
+
+* **Yuhong Liang**, Tsun-Yu Yang, and Ming-Chang Yang, "KVIMR: Key-Value Store Aware Data Management Middleware for Interlaced Magnetic Recording Based Hard Disk Drive," USENIX Annual Technical Conference (USENIX ATC), Virtual Conference, July 14-16, 2021.
+
+### Journal Paper
+
+* Shuo-Han Chen, **Yuhong Liang**, and Ming-Chang Yang, "KVSTL: An Application Support to LSM-Tree based Key-Value Store via Shingled Translation Layer Data Management," IEEE Transactions on Computers (TC), vol. 71, no. 7, pp. 1598-1611, July 2022.
+
+
+* **Yuhong Liang**, Ming-Chang Yang, and Shuo-Han Chen, "MAGIC: Making IMR based HDD Perform like CMR based HDD," IEEE Transactions on Computers (TC), vol. 71, no. 3, pp. 643-657, March 2022.
 
 ## Teaching Assistant
 CUHK CSCI2510: Computer Organization.
