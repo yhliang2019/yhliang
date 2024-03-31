@@ -8,6 +8,8 @@ My name is LIANG Yuhong. I am currently a research engineer at Huawei Technologi
 ##  Publications
 
 ### Conference Paper
+* Tsun-Yu Yang, Yizou Chen, **Yuhong Liang**, and Ming-Chang Yang, "Seraph: Towards Scalable and Efficient Fully-external Graph Computation via On-demand Processing," USENIX Conference on File and Storage Technologies (FAST), Santa Clara, CA, USA, February 27-29, 2024.
+
 * Chao Wang, Junliang Hu, Tsun-Yu Yang, **Yuhong Liang**, and Ming-Chang Yang, "SEPH: Scalable, Efficient, and Predictable Hashing on Persistent Memory," USENIX Symposium on Operating Systems Design and Implementation (OSDI), Boston, MA, USA, July 10–12, 2023.
 
 
