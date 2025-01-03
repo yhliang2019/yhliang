@@ -16,7 +16,7 @@ My name is LIANG Yuhong. I am currently a research engineer at Huawei Technologi
 
 * **Yuhong Liang**, Tsun-Yu Yang, and Ming-Chang Yang, "KVIMR: Key-Value Store Aware Data Management Middleware for Interlaced Magnetic Recording Based Hard Disk Drive," USENIX Annual Technical Conference (USENIX ATC), Virtual Conference, July 14-16, 2021.
 
-Tsun-Yu Yang, Yizou Chen, **Yuhong Liang**, and Ming-Chang Yang, "Leveraging On-demand Processing to Co-optimize Scalability and Efficiency for Fully-external Graph Computation," accepted and to appear in ACM Transactions on Storage (TOS).
+* Tsun-Yu Yang, Yizou Chen, **Yuhong Liang**, and Ming-Chang Yang, "Leveraging On-demand Processing to Co-optimize Scalability and Efficiency for Fully-external Graph Computation," accepted and to appear in ACM Transactions on Storage (TOS).
 
 * Yingjia Wang, Tao Lu, **Yuhong Liang**, Xiang Chen, and Ming-Chang Yang, "Reviving In-Storage Hardware Compression on ZNS SSDs through Host-SSD Collaboration," IEEE International Symposium on High-Performance Computer Architecture (HPCA), Las Vegas, NV, USA, March 1–5, 2025.
 
