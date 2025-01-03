@@ -7,7 +7,6 @@ My name is LIANG Yuhong. I am currently a research engineer at Huawei Technologi
 
 ##  Publications
 
-### Conference Paper
 * **Yuhong Liang**, Yingjia Wang, Tsun-Yu Yang, Matias Bjorling, and Ming-Chang Yang, "ZonesDB: Building Write-Optimized and Space-Adaptive Key-Value Store on Zoned Storage with Fragmented LSM Tree," accepted and to appear in ACM Transactions on Storage (TOS).
 
 * **Yuhong Liang**, Ming-Chang Yang, and Shuo-Han Chen, "MAGIC: Making IMR based HDD Perform like CMR based HDD," IEEE Transactions on Computers (TC), vol. 71, no. 3, pp. 643-657, March 2022.
