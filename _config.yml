@@ -5,10 +5,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   Ph.D. in computer science and engineering<br>
   Research Engineer at Huawei
   <br><br>
-  Email: yhliang@cse.cuhk.edu.hk
+  Email: yohannliang@gmail.com
   <br><br>
-  Address: Rm 921, Ho Sin Hang Engineering Building, the Chinese University of Hong Kong (CUHK), Shatin, Hong Kong, China
-  <br><br>
+  #Address: Rm 921, Ho Sin Hang Engineering Building, the Chinese University of Hong Kong (CUHK), Shatin, Hong Kong, China
+  #<br><br>
   
   
 remote_theme: pages-themes/minimal@v0.2.0
